@@ -1,0 +1,4 @@
+baseURL = 'https://jturner.org/'
+languageCode = 'en-us'
+title = "Junior Seminar Research - Jack Turner"
+theme = 'ananke'
