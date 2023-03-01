@@ -1,6 +1,6 @@
 ---
 title: "complex market behavior and various market conditions"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date:
 draft: false
 ---
 
