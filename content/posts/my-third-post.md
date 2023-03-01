@@ -1,6 +1,6 @@
 ---
 title: "complex market behavior and various market conditions"
-date: {{ .Date }}
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 ---
 
