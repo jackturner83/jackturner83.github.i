@@ -1,6 +1,6 @@
 ---
 title: "Sentiment analysis program that predicts stock market trends by analyzing social media data"
-date: {{ .Date }}
+date: 
 draft: false
 ---
 
